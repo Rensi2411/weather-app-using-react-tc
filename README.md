@@ -12,7 +12,7 @@ The Weather App is a web application that provides current weather information a
 ## Technologies Used
 
 - **React**: JavaScript library for building user interfaces.
-- **CSS3**: Styling and responsive design.
+- **Tailwind CSS**: Utility-first CSS framework for rapidly building custom designs.
 - **OpenWeatherMap API**: Fetch weather data.
 - **Geolocation API**: Retrieve user's current location.
 
@@ -38,8 +38,7 @@ The Weather App is a web application that provides current weather information a
 
 1. Clone the repository:
    ```bash
-   https://github.com/Rensi2411/weather-app_react.git
-   cd weather-app_react
+   https://github.com/Rensi2411/weather-app-using-react-tc.git
 
 2. Install dependencies:
    ```bash
@@ -52,26 +51,26 @@ The Weather App is a web application that provides current weather information a
 4. Open your browser and go to http://localhost:3000.
 
 ## Deploy Link
-https://leafy-licorice-77290f.netlify.app/
+https://66927e270dce1ffa717ed131--heroic-profiterole-4dee89.netlify.app/
 
 ## Demo video
-https://drive.google.com/file/d/1E1jMUIpgzel7CYolRXQLppI0LlzFe65b/view?usp=sharing
+
 
 ## Laptop View
-![Screenshot 2024-06-12 200922](https://github.com/Rensi2411/weather-app_react/assets/131978061/4a7a0e6b-47a6-462e-8136-5738e4a56e7b)
-![Screenshot 2024-06-12 202523](https://github.com/Rensi2411/weather-app_react/assets/131978061/2bebe7cc-383d-45a3-a2a9-d97170ab06c6)
-
+![Screenshot 2024-07-13 185542](https://github.com/user-attachments/assets/1e7de3fa-1fd7-4cb9-a371-d99de4464ed2)
+![Screenshot 2024-07-13 185605](https://github.com/user-attachments/assets/cc196846-990b-4362-b473-0f609b9565de)
 
 ## Tablet View
-![Screenshot 2024-06-12 202400](https://github.com/Rensi2411/weather-app_react/assets/131978061/7d6c9778-fb0c-4bd8-bfdb-368caebdfd73)
+![Screenshot 2024-07-13 185710](https://github.com/user-attachments/assets/30129584-a7d5-4d93-98d7-1ed5d1a7108a)
 
 
 ## Mobile View
-![Screenshot 2024-06-12 151741](https://github.com/Rensi2411/weather-app_react/assets/131978061/fc5ace50-cd03-48d5-849f-12d8e35b227b)
+![Screenshot 2024-07-13 185756](https://github.com/user-attachments/assets/57b9ae3d-c9ef-46a1-ae1a-731ae4ebf2e5)
 
 ## Dark Mode
-![Screenshot 2024-06-12 151914](https://github.com/Rensi2411/weather-app_react/assets/131978061/cff4dadb-1972-4601-bd78-82cffc933bbe)
-![Screenshot 2024-06-12 152004](https://github.com/Rensi2411/weather-app_react/assets/131978061/26c47dbe-d363-459e-ad55-9dddae426884)
+![Screenshot 2024-07-13 185846](https://github.com/user-attachments/assets/ea059a57-a9be-40af-9547-8a7a050dbc29)
+![Screenshot 2024-07-13 185921](https://github.com/user-attachments/assets/fb12cdd0-999c-4bbf-a9e2-cd9cee83c982)
+
 
 
 ## Future Improvements
